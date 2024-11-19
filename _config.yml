@@ -1,0 +1,5 @@
+theme: jekyll-theme-minimal
+title: Maya Sankar
+logo: docs/assets/headshot.jpg
+
+include: ['_pages']
