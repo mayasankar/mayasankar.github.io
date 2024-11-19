@@ -30,24 +30,19 @@
   </head>
   <body>
     <div class="wrapper">
-      <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
-
       <ul>
-	<li><h1><a href="/">Maya Sankar</a></h1></li>
+	<li><a href="/" style="h1">Maya Sankar</a></h1></li>
 	<li><a href="/home">Home</a></li>
-	<li><a href="/news">News</a></li>
-	<li><a href="/contact">Contact</a></li>
 	<li style="float:right"><a class="page-link" href="#about">About</a></li>
 	<li style="float:right"><a class="page-link" href="#about">Publications</a></li>
       </ul>
 
-      <nav class="site-nav">
-	<a class="page-link" href="/publications" > Publications </a>
-      </nav>
 
       <hr>
 
-	<header>
+      <header style="width:250px">
+
+	<h1> Maya Sankar </h1>
 
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="my photograph" />
@@ -71,6 +66,7 @@
       {{ content }}
 
       </section>
+      
       <footer>
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
