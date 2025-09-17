@@ -4,7 +4,7 @@ title: Home
 ---
 
 
-I am a Ph.D. student at Stanford University, graduating in Spring 2025.\ 
+I am a Ph.D. student at Stanford University, graduating in Spring 2025. 
 My research interests include extremal graph theory and topological combinatorics.
 
 I am advised by [Jacob Fox](https://stanford.edu/~jacobfox/).
