@@ -7,4 +7,4 @@ I study combinatorics, with a particular focus on extremal graph theory and topo
 
 I received my Ph.D. from Stanford University in 2025 under the guidance of [Jacob Fox](https://stanford.edu/~jacobfox/).
 
-You can find my CV [here](./MayaSankar-CV.pdf) (last updated July 2026).
+You can find my CV [here](./MayaSankar-CV.pdf).
